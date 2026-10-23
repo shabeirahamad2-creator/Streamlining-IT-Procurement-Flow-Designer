@@ -1,0 +1,9 @@
+﻿Test ID,Scenario,Expected Result,Actual Result,Status,Evidence
+TC-01,Submit Standard Laptop request,Request created,,Pending,
+TC-02,Approve request,Flow runs after approval,,Pending,
+TC-03,Inspect Requested Item,Catalog Task exists and is linked,,Pending,
+TC-04,Check short description,Laptop configuration text is present,,Pending,
+TC-05,Check description,Laptop configuration text is present,,Pending,
+TC-06,Check assignment group,Hardware,,Pending,
+TC-07,Check approval field,Matches configured reference,,Pending,
+TC-08,Test non-approved request,Verify intended behavior,,Pending,

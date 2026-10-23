@@ -1,0 +1,1 @@
+Add screenshots from your own ServiceNow instance. Suggested: 01-flow-properties.png, 02-trigger.png, 03-create-catalog-task.png, 04-flow-active.png, 05-catalog-item-assignment.png, 06-request-approval.png, 07-requested-item.png, 08-catalog-task-result.png. Reference PDF screenshots are not proof of your own execution.
